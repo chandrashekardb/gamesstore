@@ -1,0 +1,88 @@
+const list = [
+    {
+      id: 1,
+      title: "CR90 corvette",
+      author: "CR90 corvette",
+      price: 3500000,
+      qty:1,
+    },
+    {
+      id: 2,
+      title: "Star Destroyer",
+      author: "Imperial I-Class Star Destroyer",
+      price: 150000000,
+      qty:1,
+    },
+    {
+      id: 3,
+      title: "Sentinel-class landing craft",
+      author: "Sentinel-class landing craft",
+      price: 240000,
+      qty:1,
+    },
+    {
+      id: 4,
+      title: "Death Star",
+      author: "DS-1 Orbital Battle Station",
+      price: 1000000000000,
+      qty:1,
+    },
+    {
+      id: 5,
+      title: "Millennium Falcon",
+      author: "YT-1300 light frelghter",
+      price: 100000,
+      qty:1,
+    },
+    {
+      id: 6,
+      title: "Y-wing",
+      author: "BTL Y-wing",
+      price: 134999,
+      qty:1,
+    },
+    {
+      id: 7,
+      title: "X-wing",
+      author: "T-65 X-wing",
+      price: 149999,
+      qty:1,
+    },
+    {
+      id: 8,
+      title: "TIE Advanced x1",
+      author: "Twin Ion Engine Advanced x1",
+      price: 3500000,
+      qty:0,
+    },
+    {
+      id: 9,
+      title: "Executor",
+      author: "Executor-class star dreadnought",
+      price: 1143350000,
+      qty:1,
+    },
+    {
+      id: 10,
+      title: "Rebel transport",
+      author: "GR-75 medium transport",
+      price: 3500000,
+      qty:0,
+    },
+    {
+      id: 11,
+      title: "CR90 corvette advance1",
+      author: "CR90 corvette ad1",
+      price: 3500000,
+      qty:1,
+    },
+    {
+      id: 12,
+      title: "CR90 corvette advance2",
+      author: "CR90 corvette ad2",
+      price: 3500000,
+      qty:1,
+    },
+  ];
+  
+  export default list;
