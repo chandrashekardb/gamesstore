@@ -39,20 +39,21 @@
   .total {
     position:absolute;
     right: 380px;
-    width: 29%;
+    width: 59%;
     display: flex;
-    justify-content: space-between;    
+    justify-content: space-between; 
+    margin: 1px;   
   }  
   
   @media only screen and (max-width:1650px) {
     
     .rem_box{
-      width: 35%;
+      width: 60%;
       font-size: 10px;
     }
 
     .total{
-      width: 29%;
+      width: 40%;
       font-size: 10px;
       right: 180px;
     }
